@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464056613588",
+    "project_id": "days-b0c61",
+    "storage_bucket": "days-b0c61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464056613588:android:804bb0fc168484d40d1941",
+        "android_client_info": {
+          "package_name": "com.daysia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464056613588-98ulfkputr4hlchdibu0std4s4hp0hhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daysia",
+            "certificate_hash": "656ba6b289d38405c338560cfacdfd8bfd1239f7"
+          }
+        },
+        {
+          "client_id": "464056613588-bts31o0teuki34qbjja84tefgr4b4muq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daysia",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "464056613588-5ddhjo0hjgdqdhp91ujcmnmqivsd4p9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChwjMZN_Wk9A024YTeU898eLhoOEDkzVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464056613588-5ddhjo0hjgdqdhp91ujcmnmqivsd4p9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
